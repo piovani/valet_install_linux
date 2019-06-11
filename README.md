@@ -22,7 +22,7 @@ ifconfig
 Pegar ip na segunda linha e abrir no broser, para testar o nginx
 
 ```
-sudo apt php-fpm
+sudo apt install php-fpm
 ```
 
 ```

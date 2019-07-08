@@ -38,7 +38,7 @@ sudo apt install composer
 ```
 
 ```
-sudo chmod -R 777 .config/composer/
+sudo chmod -R 777 ~/.config/composer/
 ```
 
 ```

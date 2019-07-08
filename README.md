@@ -59,7 +59,7 @@ PATH="$HOME/.config/composer/vendor/bin:$PATH"
 * aperte ctrl + x, para sair
 
 ```
-source .profile
+source ~/.profile
 ```
 
 ```
